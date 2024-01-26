@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "age": 28,
+    "membershipType": "Gold",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "age": 35,
+    "membershipType": "Silver",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "age": 22,
+    "membershipType": "Bronze",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "name": "David Miller",
+    "age": 40,
+    "membershipType": "Platinum",
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "name": "Eva White",
+    "age": 30,
+    "membershipType": "Gold",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "name": "Frank Davis",
+    "age": 28,
+    "membershipType": "Silver",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "name": "Grace Robinson",
+    "age": 33,
+    "membershipType": "Bronze",
+    "gender": "Female"
+  },
+  {
+    "id": 8,
+    "name": "Henry Turner",
+    "age": 45,
+    "membershipType": "Platinum",
+    "gender": "Male"
+  },
+  {
+    "id": 9,
+    "name": "Ivy Johnson",
+    "age": 26,
+    "membershipType": "Gold",
+    "gender": "Female"
+  },
+  {
+    "id": 10,
+    "name": "Jack Taylor",
+    "age": 31,
+    "membershipType": "Silver",
+    "gender": "Male"
+  }
+]

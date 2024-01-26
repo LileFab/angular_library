@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "publicationDate": "1951-07-16"
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Classics",
+    "publicationDate": "1960-07-11"
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "publicationDate": "1949-06-08"
+  },
+  {
+    "id": 4,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classics",
+    "publicationDate": "1925-04-10"
+  },
+  {
+    "id": 5,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publicationDate": "1937-09-21"
+  },
+  {
+    "id": 6,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "publicationDate": "1997-06-26"
+  },
+  {
+    "id": 7,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publicationDate": "1954-07-29"
+  },
+  {
+    "id": 8,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian",
+    "publicationDate": "1932-11-30"
+  },
+  {
+    "id": 9,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Classics",
+    "publicationDate": "1813-01-28"
+  },
+  {
+    "id": 10,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Philosophical Fiction",
+    "publicationDate": "1988-01-01"
+  }
+]
