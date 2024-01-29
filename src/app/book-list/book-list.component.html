@@ -2,8 +2,8 @@
   <h1 class="text-2xl font-bold text-center">List of the books available in the Library</h1>
   <div *ngFor="let book of bookList">
     <div class="m-2 w-screen text-center">
-    <span class="font-bold">Title : {{book.title}}</span>
-    <button type="button" class=" bg-indigo-400 rounded ml-10 p-1">Show details</button>
+    <span class="font-bold">Title : {{book.title}} --></span>
+    <a href="book-detail/{{book.id}}" type="button" class="bg-indigo-400 rounded ml-2 p-1">Show details</a>
     </div>
   </div>
 </div>

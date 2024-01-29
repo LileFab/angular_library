@@ -1,1 +1,10 @@
-<p>loan-list works!</p>
+<div class="m-4">
+  <h1 class="text-2xl font-bold text-center">List of the loans</h1>
+  <div *ngFor="let loan of loanList">
+    <div class="m-2 w-screen text-center">
+    <span class="font-bold">Id : {{loan.id}} --></span>
+    <a href="loan-detail/{{loan.id}}" type="button" class="bg-indigo-400 rounded ml-2 p-1">Show details</a>
+    <span class="ml-5">Due date : {{loan.dueDate}}</span>
+    </div>
+  </div>
+</div>

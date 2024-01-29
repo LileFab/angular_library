@@ -1,0 +1,19 @@
+<div class="m-4">
+  <h1 class="text-center font-bold text-2xl">Loan details</h1>
+  <p class="text-center font-bold">Due date : {{loan.dueDate}}</p>
+  <div class="m-3">
+    <h2 class="text-center font-bold text-lg">Book detail</h2>
+    <p>Title : {{book.title}}</p>
+    <p>Author : {{book.author}}</p>
+    <p>Genre : {{book.genre}}</p>
+    <p>Publication date : {{book.publicationDate}}</p>
+  </div>
+  <div class="m-3">
+    <h2 class="text-center font-bold text-lg">Member detail</h2>
+    <p>Name : {{member.name}}</p>
+    <p>Age : {{member.age}}</p>
+    <p>Membership type : {{member.membershipType}}</p>
+    <p>Gender : {{member.gender}}</p>
+  </div>
+  <button (click)="back()" class="border bg-slate-200 rounded p-1 mt-5">Return</button>
+</div>
