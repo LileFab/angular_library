@@ -1,2 +1,13 @@
-<app-navigation></app-navigation>
-<router-outlet></router-outlet>
+<body class="overflow-hidden">
+  <app-navigation></app-navigation>
+  <main class="h-screen">
+    <router-outlet></router-outlet>
+  </main>
+  <footer class="bg-white rounded-lg shadow m-4 dark:bg-gray-800 fixed bottom-0 left-0 w-full">
+    <div class="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
+      <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2024 <a href="https://github.com/LileFab/angular_library" class="hover:underline text-red-500">Repo du site sur GitHub</a>.     Fabien Fleisch</span>
+      <p class="text-sm text-gray-500 sm:text-center dark:text-gray-400">Icon made by Aranagraphics from www.flaticon.com</p>
+    </div>
+    <p></p>
+  </footer>
+</body>
