@@ -20,11 +20,11 @@ Une version en ligne est disponible à ce lien : https://angular-library-seven.v
 
 # Architecture du projet
 
-Le projet est composé d'une page d'accueil avec un header permettant d'accéder au différentes pages.
-Il y a une vue pour les membres, une pour les livres, une pour les emprunts et une dernière avevc un formulaire de contact
-Chaque vue contient la liste des données enregistré dans les fichiers JSON simulant une base de données.
-Il est possible pour chaque ligne d'obtenir les détails grâce à l'appuie sur le bouton "Show details", pour les emprunts on obtient les détails sur le membre et le livre liés à l'emprunt.
-Pout finir la page de contact permet d'afficher une alerte contenant le mail et message renseigné.
+- Le projet est composé d'une page d'accueil avec un header permettant d'accéder au différentes pages.
+- Il y a une vue pour les membres, une pour les livres, une pour les emprunts et une dernière avevc un formulaire de contact
+- Chaque vue contient la liste des données enregistré dans les fichiers JSON simulant une base de données.
+- Il est possible pour chaque ligne d'obtenir les détails grâce à l'appuie sur le bouton "Show details", pour les emprunts on obtient les détails sur le membre et le livre liés à l'emprunt.
+- Pout finir la page de contact permet d'afficher une alerte contenant le mail et message renseigné.
 
 # Sujet
 
