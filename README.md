@@ -10,13 +10,13 @@ Une version en ligne est disponible à ce lien : https://angular-library-seven.v
 - ng serve
 - Accéder à l'url : http://localhost:4200/
 
-# Framework
+# Framework JS
 - Angular : https://angular.io/
 
-# Library CSS
+# Framework UI
 - Tailwind : https://tailwindcss.com/
 
-# Mise en production
+# PaaS
 - Vercel : https://vercel.com/
 
 # Architecture du projet
