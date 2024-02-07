@@ -5,6 +5,7 @@ Une version en ligne est disponible à ce lien : https://angular-library-seven.v
 
 # Installation du projet
 - git clone https://github.com/LileFab/angular_library.git
+- cd rendu_fabien_fleisch
 - npm i
 - ng serve
 - Accéder à l'url : http://localhost:4200/
