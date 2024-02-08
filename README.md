@@ -10,13 +10,13 @@ Une version en ligne est disponible à ce lien : https://angular-library-seven.v
 - ng serve
 - Accéder à l'url : http://localhost:4200/
 
-# Framework JS
+## Framework JS
 - Angular : https://angular.io/
 
-# Framework UI
+## Framework UI
 - Tailwind : https://tailwindcss.com/
 
-# PaaS
+## PaaS
 - Vercel : https://vercel.com/
 
 # Architecture du projet
@@ -44,16 +44,16 @@ Each list enables a click to a detail screen, showing the details of :
 
 Contact form enables to enter an email and a message, with a button to send the message (an alert or a modal will be displayed with the content entered).
 
-# Modalities
+### Modalities
 
 Project has to be done individually or by pair.  
 
-## Technical stack
+### Technical stack
 
 Front-end will be built using Angular.
 
 An additional CSS lib can be used for a better design, but it is not mandatory.
 
-## Deliverables
+### Deliverables
 
 The expected deliverable will be a Git repo or a zip of your source code, with all your source files.
